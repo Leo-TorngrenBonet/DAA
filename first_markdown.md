@@ -1,3 +1,9 @@
+---
+layout: default
+title: "First Markdown""
+rank: 1
+---
+
 # an-example-header
 
 column1 | column2 | column3
