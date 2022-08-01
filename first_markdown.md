@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "First_Markdown.md"
+title: "first_markdown.md"
 rank: 1
 ---
 
